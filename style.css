@@ -1,0 +1,82 @@
+h1, h2, p {font-family: 'Cabin', sans-serif;}
+
+.jumbotron {
+    border-radius: 0px !important;
+}
+
+.jumboimage {
+	box-shadow: 1px 10px 50px 1px rgba(0, 0, 0, .5);
+}
+
+.jumbotext {
+	color: #fff;
+}
+
+
+.download {
+	margin-right: 220px;
+}
+
+#aboutus {
+	margin-bottom: 15px;
+}
+
+.card {
+	padding-top: 35px;
+	padding-bottom: 35px;
+	border-radius: 0px !important;
+}
+
+.subscribe {
+	margin-top: 15px;
+}
+
+.carousel .item {
+  max-width: 900px;
+}
+
+#gallery {
+	padding-top: 35px;
+	padding-bottom: 15px;
+}
+
+.products {
+	padding-top: 45px;
+	padding-bottom: 15px;
+}
+
+.products2 {
+	margin-top: 35px;
+}
+
+.gallerysection {
+	
+	padding-bottom: 70px;
+}
+
+.contact {
+	padding-top: 35px;
+	background-color: #ffffe6;
+	padding-bottom: 40px;
+}
+
+.formwrap {
+	background-color: #fff;
+	padding: 50px 50px;
+	box-shadow: 1px 10px 50px 1px rgba(0, 0, 0, .5);
+}
+
+.carousel-inner img {
+  margin: auto;
+}
+
+.button-wrapped {
+padding-top: 55px;	
+padding-bottom: 55px;
+}
+
+#prices {
+color: #fff;
+padding-bottom: 20px;
+}
+
